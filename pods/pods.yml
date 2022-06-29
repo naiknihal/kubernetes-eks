@@ -7,6 +7,6 @@ metadata:
 spec:
   containers:
     - name: napp1
-      image: nginx:v1
+      image: nginx
       ports:
         - containerPort: 8080

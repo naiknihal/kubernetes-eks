@@ -7,6 +7,6 @@ metadata:
 spec:
   containers:
     - name: napp1
-      image: bitnami/nginx:v1
+      image: nginx:v1
       ports:
         - containerPort: 8080
